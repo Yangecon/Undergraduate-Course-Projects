@@ -1,7 +1,7 @@
 # Undergraduate-Course-Projects
 _Last updated: May 24, 2025_
 
-This repository is a personal archive of my **undergraduate coursework** and **independent projects** during my undergraduate study at IESR.
+This repository is a personal archive of my undergraduate coursework and independent projects during my undergraduate study at IESR.
 
 ## Repository Structure
 
