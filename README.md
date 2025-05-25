@@ -7,7 +7,7 @@ This repository is a personal archive of my undergraduate coursework and indepen
 
 ```
 Undergraduate-Course-Projects/
-├── Programming-Fundamentals/ # Course project for Programming Fundamentals (2023–24)
+├── Programming-Fundamentals
 │ ├── health.ipynb
 │ └── health.pdf
 ├── Others/ 
